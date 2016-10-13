@@ -8,6 +8,7 @@ after_success:
 notifications:
   email:
    - stinesoien@hotmail.com
+   - kristin_weiseth@hotmail.com
 
 slack:
   on_failure: always
